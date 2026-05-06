@@ -1,0 +1,21 @@
+{
+  "name": "pyxa-os-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pyxa OS — AI-driven product development operating system mockup for spatial transcriptomics",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
+    "next": "^14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.3"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
